@@ -2,6 +2,4 @@
 
 ## Summary
 
-#### This repository contains all of the notes taken by Sheila for the Lighthouse Labs Web Development Bootcamp.
-
-...taken by [Sheila](https://infrotrade.netlify.app/)
+#### This repository contains all of the notes taken by [Sheila](https://infrotrade.netlify.app/) for the Lighthouse Labs Web Development Bootcamp.
